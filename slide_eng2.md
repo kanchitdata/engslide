@@ -11,7 +11,7 @@ paginate: true
 <!-- _class: lead -->
 
 # CALCULATOR
-**Englist for science**
+**English for science**
 **Course:**
 SU218 Section 2010
 
@@ -30,13 +30,24 @@ SU218 Section 2010
 ---
 ![bg opacity:0.3](p02v2pgq.jpg)
 <!-- _header: "What problem does it solve?" -->
+- Slow calculations
+- Human errors
+- Time-consuming
 
 ---
 ![bg opacity:0.3](istockphoto-470620728-612x612.jpg)
 <!-- _header: "Who is it designed for?" -->
+- Students
+- Office workers
+- Shop owners
+- Everyone
 ---
 ![bg opacity:0.3](my-calculators.jpg)
 <!-- _header: "What does it look like?" -->
+- Small & rectangular
+- Lightweight
+- Digital screen
+- Number buttons
 
 ---
 ![bg opacity:0.3](calc2.jpg)
