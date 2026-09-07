@@ -56,11 +56,16 @@ SU218 Section 2010
 ---
 ![bg opacity:0.3](89908408-man-using-calculator-to-count-income-and-outcome.jpg)
 <!-- _header: "How does it work?" -->
-
+- open
+- press button number 
+- use math symbol
+- press equal to answer
 ---
 ![bg opacity:0.3](depositphotos_241017782-stock-photo-young-male-student-studying-math.jpg )
 <!-- _header: "How does it help users?" -->
-
+- calculate equation
+- calculate number for saler
+- calculate ingredient for cook
 ---
 <!-- _header: "Members" -->
 
