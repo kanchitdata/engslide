@@ -7,7 +7,7 @@ title: CALCULATOR
 
 paginate: true
 ---
-![bg opacity:0.3](aaron-lefler-Vs6ip7fsld8-unsplash.jpg)
+![bg opacity:0.3](photo/aaron-lefler-Vs6ip7fsld8-unsplash.jpg)
 <!-- _class: lead -->
 
 # CALCULATOR
@@ -17,7 +17,7 @@ SU218 Section 2010
 
 
 ---
-![bg opacity:0.3](wp14750029.jpg)
+![bg opacity:0.3](photo/wp14750029.jpg)
 <!-- _header: "Table of Contents"-->
 1. What problem does it solve?
 2. Who is it designed for?
@@ -28,21 +28,21 @@ SU218 Section 2010
 
 
 ---
-![bg opacity:0.3](p02v2pgq.jpg)
+![bg opacity:0.3](photo/p02v2pgq.jpg)
 <!-- _header: "What problem does it solve?" -->
 - Slow calculations
 - Human errors
 - Time-consuming
 
 ---
-![bg opacity:0.3](istockphoto-470620728-612x612.jpg)
+![bg opacity:0.3](photo/istockphoto-470620728-612x612.jpg)
 <!-- _header: "Who is it designed for?" -->
 - Students
 - Office workers
 - Shop owners
 - Everyone
 ---
-![bg opacity:0.3](my-calculators.jpg)
+![bg opacity:0.3](photo/my-calculators.jpg)
 <!-- _header: "What does it look like?" -->
 - Small & rectangular
 - Lightweight
@@ -50,18 +50,18 @@ SU218 Section 2010
 - Number buttons
 
 ---
-![bg opacity:0.3](calc2.jpg)
+![bg opacity:0.3](photo/calc2.jpg)
 <!-- _header: "What components does it have?" -->
 
 ---
-![bg opacity:0.3](89908408-man-using-calculator-to-count-income-and-outcome.jpg)
+![bg opacity:0.3](photo/89908408-man-using-calculator-to-count-income-and-outcome.jpg)
 <!-- _header: "How does it work?" -->
 - open
 - press button number 
 - use math symbol
 - press equal to answer
 ---
-![bg opacity:0.3](depositphotos_241017782-stock-photo-young-male-student-studying-math.jpg )
+![bg opacity:0.3](photo/depositphotos_241017782-stock-photo-young-male-student-studying-math.jpg )
 <!-- _header: "How does it help users?" -->
 - calculate equation
 - calculate number for saler
