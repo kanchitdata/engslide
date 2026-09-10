@@ -40,6 +40,7 @@ SU218 Section 2010
 - Students
 - Office workers
 - Shop owners
+- Cheft
 - Everyone
 ---
 ![bg opacity:0.3](photo/my-calculators.jpg)
@@ -52,20 +53,23 @@ SU218 Section 2010
 ---
 ![bg opacity:0.3](photo/calc2.jpg)
 <!-- _header: "What components does it have?" -->
-
+- Screen
+- Button number
+- Symbol button
 ---
 ![bg opacity:0.3](photo/89908408-man-using-calculator-to-count-income-and-outcome.jpg)
 <!-- _header: "How does it work?" -->
-- open
-- press button number 
-- use math symbol
-- press equal to answer
+- Open
+- Press button number 
+- Use math symbol
+- Press equal to answer
 ---
+
 ![bg opacity:0.3](photo/depositphotos_241017782-stock-photo-young-male-student-studying-math.jpg )
 <!-- _header: "How does it help users?" -->
-- calculate equation
-- calculate number for saler
-- calculate ingredient for cook
+- Calculate equation
+- Calculate number for saler
+- Calculate ingredient for cook
 ---
 <!-- _header: "Members" -->
 
